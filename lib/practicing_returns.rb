@@ -10,4 +10,8 @@ def hello(array)
   collection
 end
 
+<<<<<<< HEAD
 hello(["Tim", "Tom", "Jim"]) { |name| "Hi, #{name}" }
+=======
+hello(["Tim", "Tom", "Jim"]) { |name| "Hi, #{name}" }
+>>>>>>> 52d9f920c34061e36e00934ae4423aa366f4e2a4
